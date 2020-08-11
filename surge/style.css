@@ -7,10 +7,6 @@
       format("woff2");
 }
 
-@viewport {
-  zoom: 0.7;
-} 
-
 body {
   background-color: black !important;
   padding: 50px;
