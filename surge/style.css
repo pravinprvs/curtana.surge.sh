@@ -45,11 +45,6 @@ li:before {
   text-align: center;
 }
 
-.content h1 {
-	padding-left: 10%;
-	font-size: auto;
-}
-
 .list {
   font-size: 27px;
   text-align: left;
@@ -78,19 +73,15 @@ li:before {
 		color: white;
 		border-radius: 10px;
 		padding: 2%;
-		position: absolute;
+		width: auto;
+		position: sticky;
 		text-align: center;
 	}
-	
-	.content h1 {
-		padding-left: 0%;
-		font-size: 180%;
-	}
-	
+
 	.list {
 		width: 
 		font-size: 27px;
-		text-align: left;
+		text-align: center;
 		padding-left: 0;
 	}
 } 
